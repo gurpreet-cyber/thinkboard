@@ -1,0 +1,17 @@
+{
+  "name": "Thinkboard",
+  "short_name": "Thinkboard",
+  "description": "A minimal whiteboard for sticky notes, text, images, drawings and nested boards.",
+  "id": "./",
+  "start_url": "./",
+  "scope": "./",
+  "display": "standalone",
+  "orientation": "any",
+  "background_color": "#f3f4f1",
+  "theme_color": "#f3f4f1",
+  "icons": [
+    { "src": "icon-192.png", "sizes": "192x192", "type": "image/png", "purpose": "any" },
+    { "src": "icon-512.png", "sizes": "512x512", "type": "image/png", "purpose": "any" },
+    { "src": "maskable-512.png", "sizes": "512x512", "type": "image/png", "purpose": "maskable" }
+  ]
+}
